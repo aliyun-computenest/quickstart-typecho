@@ -35,7 +35,7 @@ Typecho基于PHP开发，支持多种数据库，是一款内核强健、扩展�
 
 ## 部署流程
 
-1. 访问计算巢Typecho社区版[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-6955d8f0905b47269e2f)，按提示填写部署参数：
+1. 访问计算巢Typecho社区版[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-db7c899d37c04551b61e)，按提示填写部署参数：
    ![image.png](1.jpg)
 
 2. 参数填写完成后可以看到对应询价明细，确认参数后点击**下一步：确认订单**，确认订单完成后同意服务协议并点击**立即创建**进入部署阶段。
