@@ -46,3 +46,4 @@ To deploy a Typecho Community Edition service instance, you need permission to a
 4. The default database username is `root`, the database password is the one specified during deployment, and the database name is `typecho_db`.
 
 5. Set the administrator username, password, and email address. Typecho installation is now complete.
+
